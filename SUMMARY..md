@@ -1,4 +1,4 @@
 # Summary
 
-* [intorduction](README.md)
+* intorduction
 
